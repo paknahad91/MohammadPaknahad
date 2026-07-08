@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg" alt="Coding" style="border-radius:10px" width="100%"/>
 </div>
@@ -137,10 +138,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <h2>🔥 GitHub Streak</h2>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.demolab.com/?user=rezageshaniweb&theme=gruvbox" alt="GitHub Streak"/>
-  </p>
-</div>
