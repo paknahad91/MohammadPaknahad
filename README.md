@@ -106,10 +106,10 @@
 <div align="center">
   <h2>💬 Connect with me</h2>
   <p>
-    <a href="https://linkedin.com/in/reza-geshani-web" target="blank">
+    <a href="https://linkedin.com/in/MohammadPaknahad" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reza-geshani-web" height="40" width="40" />
     </a>
-    <a href="https://instagram.com/rezageshani_web" target="blank">
+    <a href="https://instagram.com/MohammadPaknahad" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rezageshani_web" height="40" width="40" />
     </a>
   </p>
