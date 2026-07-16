@@ -22,7 +22,7 @@
   <h2>🏆 GitHub Achievements</h2>
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=rezageshaniweb&theme=gruvbox&no-frame=false&no-bg=false&column=7&margin-w=15&margin-h=15" alt="rezageshaniweb" />
+      <img src="https://github-profile-trophy.vercel.app/?username=rezageshaniweb&theme=gruvbox&no-frame=false&no-bg=false&column=7&margin-w=15&margin-h=15" alt="MohammadPaknahad" />
     </a>
   </p>
 </div>
@@ -32,8 +32,8 @@
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rezageshaniweb&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="rezageshaniweb" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezageshaniweb&layout=compact&langs_count=8&theme=gruvbox" alt="rezageshaniweb" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rezageshaniweb&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="MohammadPaknahad" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezageshaniweb&layout=compact&langs_count=8&theme=gruvbox" alt="MohammadPaknahad" />
   </p>
 </div>
 
