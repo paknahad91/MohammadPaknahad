@@ -111,7 +111,7 @@
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reza-geshani-web" height="40" width="40" />
     </a>
     <a href="https://instagram.com/MohammadPaknahad" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rezageshani_web" height="40" width="40" />
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paknahad" height="40" width="40" />
     </a>
   </p>
 </div>
@@ -121,7 +121,7 @@
 <div align="center">
   <h2>📧 Contact</h2>
   <p>
-    📫 Email: <a href="mailto:rezageshaniweb@gmail.com">MohammadpaknahadWeb@gmail.com</a>
+    📫 Email: <a href="mailto:MohammadpaknahadWeb@gmail.com">MohammadpaknahadWeb@gmail.com</a>
   </p>
   <p>
     👨‍💻 All of my projects are available at <a href="https://github.com/paknahad91/">GitHub</a>
