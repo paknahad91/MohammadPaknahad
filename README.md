@@ -91,7 +91,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Regex](https://img.shields.io/badge/Regex-000000?style=for-the-badge&logo=regex&logoColor=white)
-![php](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=regex&logoColor=white)
+![php](https://img.shields.io/badge/mysql-005500?style=for-the-badge&logo=regex&logoColor=white)
 ![mysql](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=regex&logoColor=white)
 
 </div>
