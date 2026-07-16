@@ -92,7 +92,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Regex](https://img.shields.io/badge/Regex-000000?style=for-the-badge&logo=regex&logoColor=white)
 ![php](https://img.shields.io/badge/mysql-005500?style=for-the-badge&logo=regex&logoColor=white)
-![mysql](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=regex&logoColor=white)
+![mysql](https://img.shields.io/badge/php-000055?style=for-the-badge&logo=regex&logoColor=white)
 
 </div>
 
